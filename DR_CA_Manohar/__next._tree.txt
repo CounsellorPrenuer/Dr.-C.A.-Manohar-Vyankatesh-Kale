@@ -1,0 +1,10 @@
+:HL["/Dr.-C.A.-Manohar-Vyankatesh-Kale/_next/static/chunks/08lc5vu4x3t-x.css","style"]
+:HL["/Dr.-C.A.-Manohar-Vyankatesh-Kale/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://cdn.sanity.io/images/gm2buqg0/production/ae88cc4d2fc6851eccd7363f502a79e8e4c3c8f0-635x885.jpg?w=600","image"]
+:HL["https://cdn.sanity.io/images/gm2buqg0/production/433a713009aac9812b73363e20ae7806efcf1db1-1855x424.png?h=300","image"]
+:HL["https://cdn.sanity.io/images/gm2buqg0/production/1e66d8dddcfacc4a2fd52f6265918fa5e812b72a-1857x420.png?h=300","image"]
+:HL["https://cdn.sanity.io/images/gm2buqg0/production/3805e623da6c2259c92f4fa9ae0021e85a5458ec-1848x451.png?h=300","image"]
+:HL["https://cdn.sanity.io/images/gm2buqg0/production/f877eac75d6c4605ff08e9578c8c6716c8a184c5-1858x445.png?h=300","image"]
+:HL["https://cdn.sanity.io/images/gm2buqg0/production/9848d16b08bee461b837039d30ee3ea0564f7616-1336x852.png?h=300","image"]
+:HL["https://cdn.sanity.io/images/gm2buqg0/production/8aa6968f447c1f85d0f5b0113d839e42c016e9c5-1249x709.png?h=300","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"brKy9VNx87ar3SHK3n9Yr"}

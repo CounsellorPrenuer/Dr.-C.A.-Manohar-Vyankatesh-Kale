@@ -1,0 +1,7 @@
+:HL["/Dr.-C.A.-Manohar-Vyankatesh-Kale/_next/static/chunks/08lc5vu4x3t-x.css","style"]
+:HL["/Dr.-C.A.-Manohar-Vyankatesh-Kale/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Dr.-C.A.-Manohar-Vyankatesh-Kale/_next/static/chunks/2-8xvo4vm2z4t.css","style"]
+:HL["/Dr.-C.A.-Manohar-Vyankatesh-Kale/_next/static/chunks/2x2b70kcc-7zs.css","style"]
+:HL["/Dr.-C.A.-Manohar-Vyankatesh-Kale/_next/static/chunks/29_2p33eozrus.css","style"]
+:HL["/Dr.-C.A.-Manohar-Vyankatesh-Kale/_next/static/chunks/3pfjd-3h39o85.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"studio","param":null,"prefetchHints":4192,"slots":{"children":{"name":"tool","param":{"type":"oc","key":"","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"brKy9VNx87ar3SHK3n9Yr"}
